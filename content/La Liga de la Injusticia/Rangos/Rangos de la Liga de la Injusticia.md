@@ -1,0 +1,5 @@
+La Liga de la Injusticia posee una estructura jerárquica sencilla, compuesta por únicamente tres rangos oficiales. A diferencia de otras organizaciones, estos rangos no representan únicamente el nivel de poder de un individuo, sino el grado de confianza y responsabilidad que la Liga deposita en él.
+
+Todo miembro comienza como [[Agentes Operativos de la Liga de la Injusticia]]. Aquellos que demuestran ser dignos de recuperar la vida que les fue arrebatada ascienden al rango de [[Egresados de la Liga de la Injusticia]]. Finalmente, algunos de estos egresados deciden permanecer de forma permanente dentro de la organización, convirtiéndose en [[Custodios]].
+
+El ascenso entre rangos no responde a una cantidad determinada de misiones, sino al juicio de la propia Liga y, en última instancia, del Consejo Supremo de Ángeles.

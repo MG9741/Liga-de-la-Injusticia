@@ -1,0 +1,5 @@
+![[pelao.png|313]]
+
+Pelao es el pequeño homúnculo personal de **[[Biggus Dickus]]** y, aunque nunca habla, su lenguaje corporal basta para convertirlo en una fuente constante de situaciones absurdas. Lleva la palabra **"Pelao"** grabada en la frente del cráneo, detalle que todos saben quién hizo y que terminó convirtiéndose en su nombre oficial.
+
+Su trabajo consiste en seguir a Biggus a todas partes, cargar objetos, ayudar con tareas sencillas y, en general, sobrevivir a las malas decisiones de su dueño. En una ocasión, el Pelao original fue apostado y perdido con total apoyo y discreción de Biggus en un casino para conseguir dinero con el que seguir jugando en las tragamonedas. Desde entonces permanece junto a la [[Viavakihz|bartender]] del establecimiento, mientras que Biggus simplemente creó otro homúnculo idéntico y continuó llamándolo Pelao, como si nada hubiera ocurrido.
