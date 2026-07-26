@@ -5,7 +5,7 @@
 ## Información General
 
 ***Nombre:*** LightFlow
-***Apodo(s):*** [[Katama-man]]
+***Apodo(s):*** [[Katana-man]]
 ***Raza:*** Monge.
 ***Ocupación:*** [[Agentes Operativos de la Liga de la Injusticia|Agente Operativo de la Liga de la Injusticia]].
 ***Estado actual:*** Vivo.

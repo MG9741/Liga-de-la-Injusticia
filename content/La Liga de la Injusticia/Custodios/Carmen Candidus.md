@@ -1,5 +1,5 @@
 ![[Carmen Sonriendo.png|428]]
-**"*Estoy ocupada, no tengo tiempo para ninguna queja de ningún tipo. Si tanto le precisa, agarre una ficha y META#### #### ### ## ####. GRACIAS *cierra la puerta.*"**
+**"*Estoy ocupada, no tengo tiempo para ninguna queja de ningún tipo. Si tanto le precisa, agarre una ficha y META-(espacio publicitario) GRACIAS *cierra la puerta.*"**
 
 ---
 # Información General
