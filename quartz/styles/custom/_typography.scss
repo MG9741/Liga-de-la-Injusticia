@@ -25,3 +25,24 @@ h2 {
   border-bottom: 1px solid #202020;
   padding-bottom: .4rem;
 }
+
+:root {
+  --font-interface: "JetBrains Mono", monospace;
+  --font-body: "JetBrains Mono", monospace;
+  --font-code: "JetBrains Mono", monospace;
+  --font-header: "JetBrains Mono", monospace;
+}
+
+body,
+p,
+li,
+span,
+a,
+button,
+input,
+textarea,
+label,
+summary,
+details {
+  font-family: "JetBrains Mono", monospace !important;
+}
