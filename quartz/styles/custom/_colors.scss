@@ -1,0 +1,38 @@
+body {
+  background: #000000;
+  color: #f3f3f3;
+}
+
+/* Contenido principal */
+.page {
+  background: #000000;
+}
+
+/* Panel izquierdo y derecho */
+.left.sidebar,
+.right.sidebar {
+  background: #050505;
+  border-right: 1px solid #1b1b1b;
+}
+
+.right.sidebar {
+  border-right: none;
+  border-left: 1px solid #1b1b1b;
+}
+
+/* Tarjetas */
+.explorer,
+.search,
+.toc,
+.backlinks,
+.recent-notes {
+  background: #090909;
+  border: 1px solid #1d1d1d;
+  border-radius: 10px;
+}
+
+/* Líneas divisorias */
+hr {
+  border: none;
+  border-top: 1px solid #222;
+}
