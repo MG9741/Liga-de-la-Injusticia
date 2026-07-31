@@ -7,42 +7,42 @@ export default {
   },
   components: {
     callout: {
-      note: "Note",
-      abstract: "Abstract",
-      info: "Info",
-      todo: "Todo",
-      tip: "Tip",
-      success: "Success",
-      question: "Question",
-      warning: "Warning",
-      failure: "Failure",
-      danger: "Danger",
-      bug: "Bug",
-      example: "Example",
-      quote: "Quote",
+      note: "Nota",
+      abstract: "Resumen",
+      info: "Información",
+      todo: "Pendiente",
+      tip: "Consejo",
+      success: "Éxito",
+      question: "Pregunta",
+      warning: "Advertencia",
+      failure: "Fallo",
+      danger: "Peligro",
+      bug: "Error",
+      example: "Ejemplo",
+      quote: "Cita",
     },
     backlinks: {
-      title: "Backlinks",
-      noBacklinksFound: "No backlinks found",
+      title: "Referencias",
+      noBacklinksFound: "No se encontraron Referencias",
     },
     themeToggle: {
-      lightMode: "Light mode",
-      darkMode: "Dark mode",
+      lightMode: "Modo Claro",
+      darkMode: "Modo Oscuro",
     },
     readerMode: {
-      title: "Reader mode",
+      title: "Modo Lectura",
     },
     explorer: {
-      title: "Explorer",
+      title: "Base de Datos",
     },
     footer: {
-      createdWith: "Created with",
+      createdWith: "",
     },
     graph: {
-      title: "Graph View",
+      title: "Mapa Multiversal",
     },
     recentNotes: {
-      title: "Recent Notes",
+      title: "Últimos Informes",
       seeRemainingMore: ({ remaining }) => `See ${remaining} more →`,
     },
     transcludes: {
@@ -50,14 +50,14 @@ export default {
       linkToOriginal: "Link to original",
     },
     search: {
-      title: "Search",
-      searchBarPlaceholder: "Search for something",
+      title: "Buscar",
+      searchBarPlaceholder: "Buscar un Expediente",
     },
     tableOfContents: {
-      title: "Table of Contents",
+      title: "Contenido",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => `${minutes} min`,
     },
   },
   pages: {
@@ -66,8 +66,8 @@ export default {
       lastFewNotes: ({ count }) => `Last ${count} notes`,
     },
     error: {
-      title: "Not Found",
-      notFound: "Either this page is private or doesn't exist.",
+      title: "Archivo no Encontrado",
+      notFound: "El expediente solicitado no existe o está clasificado",
       home: "Return to Homepage",
     },
     folderContent: {
