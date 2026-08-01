@@ -1,11 +1,10 @@
-
 ---
-
+title: Base de Datos Interdimensional
+description: Página principal
+---
 > **Estado del sistema:** En línea
->
+
 > **Acceso:** Autorizado
->
-> **Organización:** Liga de la Injusticia
 
 ---
 
